@@ -1,4 +1,4 @@
-# Referencearkitektur-for-observation-og-måling
+# Referencearkitektur for observation og måling
 
 Kandidat > Udvikling > Færdig > Optaget > Drift > Udfases
 
