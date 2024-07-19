@@ -558,11 +558,11 @@ Her uddybes de seks generiske procestrin kort med en angivelse af, hvordan egens
 
 #### 1\. Definition af måle og observationsmetode
 
-Proces hvor der defineres en tilgang til observation og måling indenfor et genstandsfelt. Dette kan udformes som en anvendelsesprofil på anvendelsesmodellen med en eller flere egenskabsklassifikationer, der kan anvendes som fælles standard i forhold til genstandsfeltet.
+Proces hvor der defineres en tilgang til observation og måling indenfor et genstandsfelt. Dette kan udformes som ![img1.png](assets/c43f75334cc5bc32886cf178c46d892473e6aa0e.png)en anvendelsesprofil på anvendelsesmodellen med en eller flere egenskabsklassifikationer, der kan anvendes som fælles standard i forhold til genstandsfeltet.
 
 
 
-![img1.png](assets/c43f75334cc5bc32886cf178c46d892473e6aa0e.png)
+
 
 #### 2\. Implementering/Konfiguration af udstyr og instruktion af registrant
 
