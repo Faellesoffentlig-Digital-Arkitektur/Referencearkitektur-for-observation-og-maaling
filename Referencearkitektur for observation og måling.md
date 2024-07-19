@@ -558,59 +558,59 @@ Her uddybes de seks generiske procestrin kort med en angivelse af, hvordan egens
 
 #### 1\. Definition af måle og observationsmetode
 
-Proces hvor der defineres en tilgang til observation og måling indenfor et genstandsfelt. Dette kan udformes som ![img1.png](assets/c43f75334cc5bc32886cf178c46d892473e6aa0e.png)en anvendelsesprofil på anvendelsesmodellen med en eller flere egenskabsklassifikationer, der kan anvendes som fælles standard i forhold til genstandsfeltet.
+![img1.png](assets/c43f75334cc5bc32886cf178c46d892473e6aa0e.png)
 
-
+Proces hvor der defineres en tilgang til observation og måling indenfor et genstandsfelt. Dette kan udformes som en anvendelsesprofil på anvendelsesmodellen med en eller flere egenskabsklassifikationer, der kan anvendes som fælles standard i forhold til genstandsfeltet.
 
 
 
 #### 2\. Implementering/Konfiguration af udstyr og instruktion af registrant
 
+![img2.png](assets/b10a7a97adf405134d6dbe47d74106d3539bde85.png)
+
 Proces hvor udstyr konfigureres, fx hos leverandøren, af en specialist hos forretningen eller af en slutbruger, fx borgeren selv. Denne proces kan tilsvarende omfatte instruktion af en registrant ift. konkrete dokumentations- og registreringspraksisser. Dette kan også indebærer opsætning af udstyr i "målemiljøet", altså der hvor det skal anvendes.
 
 Denne proces kan anvende en egenskabsklassifikation til konfiguration af udstyr, eller som metodeanvisning for registrering og dokumentation af data.
-
-![img2.png](assets/b10a7a97adf405134d6dbe47d74106d3539bde85.png)
 
 
 
 #### 3\. Indsamling og registrering
 
+![img3.png](assets/20b5cc14c057f50bd2b2e6ddfd91b8c1eb979fad.png)
+
 Proces hvor selve datafangsten sker. Det kan enten være via en person der anvender udstyr eller software til at indsamle og registrere data som en del af et fagsystem, eller et apparat med relevant sensor og funktionalitet til at observere og registrere data og lagre eller evt. videregive dem til evt. anden enhed.
 
 Denne proces kan anvende en egenskabsklassifikation, fx som støtte for manuel registrant. Et apparat kan evt. sættes op til at lytte på opdateringer af en egenskabsklassifikation, så det løbende kan holdes konfigureret efter seneste version af aftalt "standard".
-
-![img3.png](assets/20b5cc14c057f50bd2b2e6ddfd91b8c1eb979fad.png)
 
 
 
 #### 4\. Lagring og udstilling
 
+![img4.png](assets/988df7fb474e18eba9641233bcdc6cdd14ee9d2e.png)
+
 Proces hvor data samles på et lager. Her kan eventuelt ske en konsolidering og indeksering af data. Data kan eventuelt udstilles fra det oprindelige kildelager eller et dedikeret distributionslager.
 
 Denne proces kan anvende en egenskabsklassifikation som dokumentation af (metadata om) et konkret datasæt.
-
-![img4.png](assets/988df7fb474e18eba9641233bcdc6cdd14ee9d2e.png)
 
 
 
 #### 5\. Databehandling
 
+![img5.png](assets/2a17ec2841fd76ab02ae552f7fb802adfe3683a0.png)
+
 Proces hvor data sammenstilles logisk og evt. fysisk, fx efter at de er hentet fra flere datakilder. Processen kan også omfatte transformation, fx fra forskellige modeller til fælles model, eller fx fra dansk til engelsk sprog.
 
 Denne proces kan anvende en eller flere egenskabsklassifikationer som grundlag for sammenstilling og transformation.
-
-![img5.png](assets/2a17ec2841fd76ab02ae552f7fb802adfe3683a0.png)
 
 
 
 #### 6\. Anvendelse
 
+![img6.png](assets/0b0f5084bb39a2257022b67fc373481cf693ad2f.png)
+
 Proces hvor en slutbruger anvender data til en konkret opgaveløsning. Det kan fx være en medarbejder der skal følge en udvikling eller oplyse en sag, eller en borger der skal se resultater af sundhedsmålinger fra behandler, laboratorie eller eget udstyr.
 
 Denne proces kan anvende en egenskabsklassifikation som grundlag for struktur og præsentation af data, herunder som kilde til forklarende tekst som støtte til slutbruger.
-
-![img6.png](assets/0b0f5084bb39a2257022b67fc373481cf693ad2f.png)
 
 
 
