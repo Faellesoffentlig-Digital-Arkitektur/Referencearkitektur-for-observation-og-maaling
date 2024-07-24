@@ -1,0 +1,107 @@
+<!--version="1.0" encoding="utf-8" standalone="yes"--><!DOCTYPE html PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13.333333in" height="7.5in" class="slides-canvas" viewBox="0 0 960 540" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="application/ecmascript" contentStyleType="text/css">
+  <defs>
+    <marker id="ah1" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="10.5" viewBox="-9 -5.25 18 10.5" orient="auto" preserveAspectRatio="xMidYMid meet">
+      <path d="M4.05 0L-0.45 2.25-0.45-2.25 4.05 0z" fill="#2E75B6"/>
+    </marker>
+  </defs>
+  <g text-rendering="geometricPrecision" transform="scale(1, 1)">
+    <rect x="0" y="0" width="960" height="540" fill="#FFFFFF"/>
+    <path fill="#FBE5D6" d="M686.69 352.3C686.69 347.43 690.63 343.49 695.5 343.49L760.35 343.49 760.35 343.49C765.21 343.49 769.15 347.43 769.15 352.3L769.15 387.53 769.15 387.53C769.15 392.39 765.21 396.33 760.35 396.33L695.5 396.33 695.5 396.33C690.63 396.33 686.69 392.39 686.69 387.53z"/>
+    <path stroke-width="2.25" stroke="#41719C" fill="none" d="M686.69 352.3C686.69 347.43 690.63 343.49 695.5 343.49L760.35 343.49 760.35 343.49C765.21 343.49 769.15 347.43 769.15 352.3L769.15 387.53 769.15 387.53C769.15 392.39 765.21 396.33 760.35 396.33L695.5 396.33 695.5 396.33C690.63 396.33 686.69 392.39 686.69 387.53z"/>
+    <path fill="#FBE5D6" d="M690.01 352.05L765.83 352.05 765.83 388.4 690.01 388.4z"/>
+    <g transform="matrix(1, 0, 0, 1, 697.2119, 355.64853)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="7.7989826" y="25.632"><tspan x="0.36636543" y="11.232">Observerbar</tspan><tspan x="7.7989826" y="25.632">egenskab</tspan></text></g>
+    <path fill="#FBE5D6" d="M373.81 353.32C373.81 348.46 377.75 344.51 382.62 344.51L452.86 344.51 452.86 344.51C457.73 344.51 461.67 348.46 461.67 353.32L461.67 388.55 461.67 388.55C461.67 393.41 457.73 397.35 452.86 397.35L382.62 397.35 382.62 397.35C377.75 397.35 373.81 393.41 373.81 388.55z"/>
+    <path stroke-width="2.25" stroke="#41719C" fill="none" d="M373.81 353.32C373.81 348.46 377.75 344.51 382.62 344.51L452.86 344.51 452.86 344.51C457.73 344.51 461.67 348.46 461.67 353.32L461.67 388.55 461.67 388.55C461.67 393.41 457.73 397.35 452.86 397.35L382.62 397.35 382.62 397.35C377.75 397.35 373.81 393.41 373.81 388.55z"/>
+    <g transform="matrix(1, 0, 0, 1, 383.5912, 350.69183)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="14.384823" y="24.27331"><tspan x="14.384823" y="24.27331">Resultat</tspan></text></g>
+    <path fill="#FBE5D6" d="M536.12 277.25C536.12 272.39 540.06 268.44 544.93 268.44L614.04 268.44 614.04 268.44C618.91 268.44 622.85 272.39 622.85 277.25L622.85 312.48 622.85 312.48C622.85 317.34 618.91 321.29 614.04 321.29L544.93 321.29 544.93 321.29C540.06 321.29 536.12 317.34 536.12 312.48z"/>
+    <path stroke-width="2.25" stroke="#41719C" fill="none" d="M536.12 277.25C536.12 272.39 540.06 268.44 544.93 268.44L614.04 268.44 614.04 268.44C618.91 268.44 622.85 272.39 622.85 277.25L622.85 312.48 622.85 312.48C622.85 317.34 618.91 321.29 614.04 321.29L544.93 321.29 544.93 321.29C540.06 321.29 536.12 317.34 536.12 312.48z"/>
+    <path fill="#FBE5D6" d="M539.75 281.83L620.32 281.83 620.32 303.64 539.75 303.64z"/>
+    <g transform="matrix(1, 0, 0, 1, 546.95325, 285.42722)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="13.738487" y="11.232"><tspan x="13.738487" y="11.232">Metode</tspan></text></g>
+    <path fill="#FBE5D6" d="M376.51 219.89C376.51 215.03 380.46 211.08 385.32 211.08L450.17 211.08 450.17 211.08C455.03 211.08 458.97 215.03 458.97 219.89L458.97 255.12 458.97 255.12C458.97 259.98 455.03 263.92 450.17 263.92L385.32 263.92 385.32 263.92C380.46 263.92 376.51 259.98 376.51 255.12z"/>
+    <path stroke-width="2.25" stroke="#41719C" fill="none" d="M376.51 219.89C376.51 215.03 380.46 211.08 385.32 211.08L450.17 211.08 450.17 211.08C455.03 211.08 458.97 215.03 458.97 219.89L458.97 255.12 458.97 255.12C458.97 259.98 455.03 263.92 450.17 263.92L385.32 263.92 385.32 263.92C380.46 263.92 376.51 259.98 376.51 255.12z"/>
+    <g transform="matrix(1, 0, 0, 1, 385.65884, 227.59467)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="0.36001015" y="11.232"><tspan x="0.36001015" y="11.232">Observation</tspan></text></g>
+    <path fill="#FBE5D6" d="M687.37 220.34C687.37 215.47 691.32 211.53 696.18 211.53L761.03 211.53 761.03 211.53C765.89 211.53 769.83 215.47 769.83 220.34L769.83 255.56 769.83 255.56C769.83 260.43 765.89 264.37 761.03 264.37L696.18 264.37 696.18 264.37C691.32 264.37 687.37 260.43 687.37 255.56z"/>
+    <path stroke-width="2.25" stroke="#41719C" fill="none" d="M687.37 220.34C687.37 215.47 691.32 211.53 696.18 211.53L761.03 211.53 761.03 211.53C765.89 211.53 769.83 215.47 769.83 220.34L769.83 255.56 769.83 255.56C769.83 260.43 765.89 264.37 761.03 264.37L696.18 264.37 696.18 264.37C691.32 264.37 687.37 260.43 687.37 255.56z"/>
+    <g transform="matrix(1, 0, 0, 1, 695.91974, 223.68555)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="18.813007" y="25.632"><tspan x="0.40089798" y="11.232">Observations-</tspan><tspan x="18.813007" y="25.632">objekt</tspan></text></g>
+    <g transform="matrix(-1, 0, 0, 1, 835.48505, 0)">
+      <path marker-end="url(#ah1)" stroke-width="1.5" stroke="#2E75B6" fill="none" d="M417.74 263.92L417.74 338.61 417.74 339.36"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 555.1129, 221.38733)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="7.5pt" fill="#000000" x="0" y="9.36"><tspan x="0" y="9.36">Omhandler</tspan></text></g>
+    <path marker-end="url(#ah1)" stroke-width="1.5" stroke="#2E75B6" fill="none" d="M458.97 237.5L681.47 237.94 682.22 237.94"/>
+    <g transform="matrix(1, 0, 0, 1, 358.31143, 284.65717)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="7.5pt" fill="#000000" x="0" y="33.36"><tspan x="0" y="9.36">Resultere i en</tspan><tspan xml:space="preserve" x="55.625" y="9.36"/><tspan x="0" y="21.36">værdi som</tspan><tspan xml:space="preserve" x="42.625" y="21.36"/><tspan x="0" y="33.36">angiver et</tspan></text></g>
+    <g transform="matrix(-1, 0, 0, 1, 1456.5247, 0)">
+      <path marker-end="url(#ah1)" stroke-width="1.5" stroke="#2E75B6" fill="none" d="M727.92 264.37L728.55 337.58 728.56 338.33"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 733.7643, 287.75482)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="7.5pt" fill="#000000" x="0" y="21.36"><tspan x="0" y="9.36">Har en</tspan><tspan xml:space="preserve" x="27" y="9.36"/><tspan x="0" y="21.36">eller flere</tspan></text></g>
+    <g transform="matrix(1, 0, 0, -1, 0, 740.845)">
+      <path marker-end="url(#ah1)" stroke-width="1.5" stroke="#2E75B6" fill="none" d="M461.67 369.91L680.78 370.91 681.53 370.91"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 538.11176, 353.51535)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="7.5pt" fill="#000000" x="0" y="9.36"><tspan x="0" y="9.36">Sætter værdi på</tspan></text></g>
+    <path marker-end="url(#ah1)" stroke-width="1.5" stroke="#2E75B6" fill="none" d="M459.3 248.2L530.68 291.56 531.32 291.95"/>
+    <g transform="matrix(-1, 0, 0, -1, 1310.6592, 639.0372)">
+      <path marker-end="url(#ah1)" stroke-width="1.5" stroke="#2E75B6" fill="none" d="M622.85 294.87L682.71 340.3 683.31 340.75"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 458.10458, 269.92435)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="7.5pt" fill="#000000" x="0" y="9.36"><tspan x="0" y="9.36">Anvender</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 596.8157, 326.62347)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="7.5pt" fill="#000000" x="0" y="9.36"><tspan x="0" y="9.36">Observeres ved</tspan></text></g>
+    <path fill="#FBE5D6" d="M532.27 163.94C532.27 159.14 536.15 155.26 540.95 155.26L613.25 155.26 613.25 155.26C618.04 155.26 621.93 159.14 621.93 163.94L621.93 198.66 621.93 198.66C621.93 203.46 618.04 207.35 613.25 207.35L540.95 207.35 540.95 207.35C536.15 207.35 532.27 203.46 532.27 198.66z"/>
+    <path stroke-width="2.25" stroke="#2E75B6" fill="none" d="M532.27 163.94C532.27 159.14 536.15 155.26 540.95 155.26L613.25 155.26 613.25 155.26C618.04 155.26 621.93 159.14 621.93 163.94L621.93 198.66 621.93 198.66C621.93 203.46 618.04 207.35 613.25 207.35L540.95 207.35 540.95 207.35C536.15 207.35 532.27 203.46 532.27 198.66z"/>
+    <path fill="#FBE5D6" d="M534.48 163.87L619.72 163.87 619.72 200.22 534.48 200.22z"/>
+    <g transform="matrix(1, 0, 0, 1, 541.67615, 167.46552)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="17.259289" y="25.632"><tspan x="1.5376091" y="11.232">Observations-</tspan><tspan x="17.259289" y="25.632">facilitet</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 464.85315, 167.1156)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="7.5pt" fill="#000000" x="0" y="9.36"><tspan x="0" y="9.36">Anvender</tspan></text></g>
+    <path fill="#FBE5D6" d="M537.34 413.46C537.34 408.59 541.28 404.65 546.15 404.65L611 404.65 611 404.65C615.86 404.65 619.8 408.59 619.8 413.46L619.8 448.68 619.8 448.68C619.8 453.55 615.86 457.49 611 457.49L546.15 457.49 546.15 457.49C541.28 457.49 537.34 453.55 537.34 448.68z"/>
+    <path stroke-width="2.25" stroke="#41719C" fill="none" d="M537.34 413.46C537.34 408.59 541.28 404.65 546.15 404.65L611 404.65 611 404.65C615.86 404.65 619.8 408.59 619.8 413.46L619.8 448.68 619.8 448.68C619.8 453.55 615.86 457.49 611 457.49L546.15 457.49 546.15 457.49C541.28 457.49 537.34 453.55 537.34 448.68z"/>
+    <path fill="#FBE5D6" d="M544.14 421.19L614.73 421.19 614.73 443 544.14 443z"/>
+    <g transform="matrix(1, 0, 0, 1, 551.3432, 424.79007)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="0.3413391" y="11.232"><tspan x="0.3413391" y="11.232">Måleenhed</tspan></text></g>
+    <path fill="#FBE5D6" d="M538.97 481.35C538.97 476.49 542.91 472.54 547.78 472.54L612.62 472.54 612.62 472.54C617.49 472.54 621.43 476.49 621.43 481.35L621.43 516.58 621.43 516.58C621.43 521.44 617.49 525.39 612.62 525.39L547.78 525.39 547.78 525.39C542.91 525.39 538.97 521.44 538.97 516.58z"/>
+    <path stroke-width="2.25" stroke="#41719C" fill="none" d="M538.97 481.35C538.97 476.49 542.91 472.54 547.78 472.54L612.62 472.54 612.62 472.54C617.49 472.54 621.43 476.49 621.43 481.35L621.43 516.58 621.43 516.58C621.43 521.44 617.49 525.39 612.62 525.39L547.78 525.39 547.78 525.39C542.91 525.39 538.97 521.44 538.97 516.58z"/>
+    <path fill="#FBE5D6" d="M544.21 487.36L616.19 487.36 616.19 509.17 544.21 509.17z"/>
+    <g transform="matrix(1, 0, 0, 1, 551.4062, 490.9585)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="0.34781075" y="11.232"><tspan x="0.34781075" y="11.232">Udfaldsrum</tspan></text></g>
+    <path fill="#FBE5D6" d="M261.91 164.33C261.91 159.47 265.85 155.52 270.72 155.52L335.57 155.52 335.57 155.52C340.43 155.52 344.37 159.47 344.37 164.33L344.37 199.56 344.37 199.56C344.37 204.42 340.43 208.37 335.57 208.37L270.72 208.37 270.72 208.37C265.85 208.37 261.91 204.42 261.91 199.56z"/>
+    <path stroke-width="2.25" stroke="#41719C" fill="none" d="M261.91 164.33C261.91 159.47 265.85 155.52 270.72 155.52L335.57 155.52 335.57 155.52C340.43 155.52 344.37 159.47 344.37 164.33L344.37 199.56 344.37 199.56C344.37 204.42 340.43 208.37 335.57 208.37L270.72 208.37 270.72 208.37C265.85 208.37 261.91 204.42 261.91 199.56z"/>
+    <g transform="matrix(1, 0, 0, 1, 288.83698, 174.94577)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="0.20170212" y="11.232"><tspan x="0.20170212" y="11.232">Aktør</tspan></text></g>
+    <path fill="#FBE5D6" d="M536.88 92.54C536.88 87.68 540.82 83.73 545.68 83.73L610.53 83.73 610.53 83.73C615.4 83.73 619.34 87.68 619.34 92.54L619.34 127.77 619.34 127.77C619.34 132.63 615.4 136.58 610.53 136.58L545.68 136.58 545.68 136.58C540.82 136.58 536.88 132.63 536.88 127.77z"/>
+    <path stroke-width="2.25" stroke="#2E75B6" fill="none" d="M536.88 92.54C536.88 87.68 540.82 83.73 545.68 83.73L610.53 83.73 610.53 83.73C615.4 83.73 619.34 87.68 619.34 92.54L619.34 127.77 619.34 127.77C619.34 132.63 615.4 136.58 610.53 136.58L545.68 136.58 545.68 136.58C540.82 136.58 536.88 132.63 536.88 127.77z"/>
+    <path fill="#FBE5D6" d="M559.23 99.56L595.6 99.56 595.6 121.37 559.23 121.37z"/>
+    <g transform="matrix(1, 0, 0, 1, 566.4302, 103.15593)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="0.17534637" y="11.232"><tspan x="0.17534637" y="11.232">Sted</tspan></text></g>
+    <g transform="matrix(1, 0, 0, -1, 0, 363.2467)">
+      <path marker-end="url(#ah1)" stroke-width="1.5" stroke="#2E75B6" fill="none" d="M344.37 181.3L524.62 181.3 525.37 181.36"/>
+    </g>
+    <g transform="matrix(-1, 0, 0, -1, 1337.927, 393.06442)">
+      <path marker-end="url(#ah1)" stroke-width="1.5" stroke="#2E75B6" fill="none" d="M621.93 181.3L621.96 181.3 621.96 211.76 710.1 211.76 710.85 211.76"/>
+    </g>
+    <path marker-end="url(#ah1)" stroke-width="1.5" stroke="#2E75B6" fill="none" d="M420.26 399.22L419.8 399.22 419.8 431.07 531.44 431.07 532.19 431.07"/>
+    <g transform="matrix(0, 1, -1, -0, 1087.5642, -260.1603)">
+      <path marker-end="url(#ah1)" stroke-width="1.5" stroke="#2E75B6" fill="none" d="M656.49 359.64L691.23 359.64 691.23 461.86 691.23 462.61"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 637.7644, 414.4734)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="7.5pt" fill="#000000" x="0" y="9.36"><tspan x="0" y="9.36">Angives ved</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 449.68445, 405.14206)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="7.5pt" fill="#000000" x="0" y="21.36"><tspan x="0" y="9.36">Angives indenfor</tspan><tspan xml:space="preserve" x="68.375" y="9.36"/><tspan x="0" y="21.36">rammerne af</tspan><tspan xml:space="preserve" x="53" y="21.36"/></text></g>
+    <g transform="matrix(1, 0, 0, 1, 632.6771, 166.59143)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="7.5pt" fill="#000000" x="0" y="9.36"><tspan x="0" y="9.36">Kan have tilknyttet</tspan><tspan xml:space="preserve" x="76.5" y="9.36"/></text></g>
+    <g transform="matrix(1, 0, 0, 1, 412.47897, 93.919365)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="7.5pt" fill="#000000" x="0" y="9.36"><tspan x="0" y="9.36">Foregår på observationssted</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 317.12805, 223.09283)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="7.5pt" fill="#000000" x="0" y="9.36"><tspan x="0" y="9.36">Udføres af</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 643.0062, 471.06015)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="7.5pt" fill="#000000" x="0" y="21.36"><tspan x="0" y="9.36">Kan være</tspan><tspan xml:space="preserve" x="38.25" y="9.36"/><tspan x="0" y="21.36">begrænset af</tspan></text></g>
+    <g transform="matrix(-1, 0, 0, -1, 716.0723, 443.21576)">
+      <path marker-end="url(#ah1)" stroke-width="1.5" stroke="#2E75B6" fill="none" d="M339.56 205.71L371.65 233.32 372.22 233.81"/>
+    </g>
+    <g transform="matrix(-1, 0, 0, 1, 1372.3938, 0)">
+      <path marker-end="url(#ah1)" stroke-width="1.5" stroke="#2E75B6" fill="none" d="M621.43 396.71L623.53 396.71 623.53 498.96 745.06 498.96 745.81 498.96"/>
+    </g>
+    <g transform="matrix(0, -1, -1, -0, 834.813, 834.813)">
+      <path marker-end="url(#ah1)" stroke-width="1.5" stroke="#2E75B6" fill="none" d="M623.29 106.21L724.66 106.21 724.66 209.57 724.66 210.32"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 639.5423, 92.06937)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="7.5pt" fill="#000000" x="0" y="9.36"><tspan x="0" y="9.36">Kan være af typen</tspan></text></g>
+    <path fill="#FFFFFF" d="M410.36 132.4L424.67 132.4 424.67 143.48 410.36 143.48z"/>
+    <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M410.36 132.4L424.67 132.4 424.67 143.48 410.36 143.48z"/>
+    <g transform="matrix(-1, 0, 0, -1, 834.5021, 321.23755)">
+      <path stroke-width="1.5" stroke="#2E75B6" fill="none" d="M416.76 110.16L417.74 211.08"/>
+    </g>
+    <path marker-end="url(#ah1)" stroke-width="1.5" stroke="#2E75B6" fill="none" d="M416.76 110.16L530.97 110.16 531.72 110.16"/>
+    <path stroke-width="1.5" stroke="#2E75B6" fill="none" d="M408.83 180.96C408.93 176.36 412.9 172.71 417.68 172.8 422.41 172.89 426.19 176.59 426.19 181.14"/>
+    <path fill="#FFFFFF" d="M410.36 180.35L424.67 180.35 424.67 191.43 410.36 191.43z"/>
+    <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M410.36 180.35L424.67 180.35 424.67 191.43 410.36 191.43z"/>
+    <g transform="matrix(-1, 0, 0, -1, 835.4832, 382.0552)">
+      <path stroke-width="1.5" stroke="#2E75B6" fill="none" d="M417.74 172.2L417.74 209.85"/>
+    </g>
+    <path marker-end="url(#ah1)" stroke-width="1.5" stroke="#2E75B6" fill="none" d="M408.65 397.73L403.31 397.73 403.31 498.96 533.06 498.96 533.81 498.96"/>
+    <g transform="matrix(1, 0, 0, 1, 450.9024, 473.0885)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="7.5pt" fill="#000000" x="0" y="21.36"><tspan x="0" y="9.36">Angives indenfor</tspan><tspan xml:space="preserve" x="68.375" y="9.36"/><tspan x="0" y="21.36">rammerne af</tspan><tspan xml:space="preserve" x="53" y="21.36"/></text></g>
+  </g>
+</svg>
