@@ -961,7 +961,7 @@ Et resultat giver kun mening i en konktest, hvis man kender den måleenhed resul
 
 
 
-![loading-ag-2542](C:\Users\B293098\Documents\github projekter\Referencearkitektur-for-observation-og-maaling\assets\figur22.png)
+![figur22](assets/figur22.png)
 
 _Figur 22 – Sammenhæng mellem observation og resultat._
 
